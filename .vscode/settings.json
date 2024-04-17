@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/adityagandhi/Workspace/Espressif/v5.2.1/esp-idf",
+  "idf.pythonBinPath": "/Users/adityagandhi/Workspace/Espressif/python_env/idf5.2_py3.12_env/bin/python",
+  "idf.toolsPath": "/Users/adityagandhi/Workspace/Espressif",
+  "idf.customExtraPaths": "/Users/adityagandhi/Workspace/Espressif/tools/xtensa-esp-elf-gdb/12.1_20231023/xtensa-esp-elf-gdb/bin:/Users/adityagandhi/Workspace/Espressif/tools/riscv32-esp-elf-gdb/12.1_20231023/riscv32-esp-elf-gdb/bin:/Users/adityagandhi/Workspace/Espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin:/Users/adityagandhi/Workspace/Espressif/tools/riscv32-esp-elf/esp-13.2.0_20230928/riscv32-esp-elf/bin:/Users/adityagandhi/Workspace/Espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/adityagandhi/Workspace/Espressif/tools/cmake/3.24.0/CMake.app/Contents/bin:/Users/adityagandhi/Workspace/Espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/bin:/Users/adityagandhi/Workspace/Espressif/tools/ninja/1.11.1:/Users/adityagandhi/Workspace/Espressif/tools/esp-rom-elfs/20230320",
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "/Users/adityagandhi/Workspace/Espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+    "ESP_ROM_ELF_DIR": "/Users/adityagandhi/Workspace/Espressif/tools/esp-rom-elfs/20230320/"
+  },
+  "idf.gitPath": "git",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.port": "/dev/cu.usbmodem83401",
+  "idf.flashType": "JTAG"
+}
